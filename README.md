@@ -67,3 +67,4 @@ the two multivariate insight are significant for my explainatory analysis.
 
 The first multivariate showed that the higher the API, the lower the loan collected and the homeowner had no influence on the loan amount range. However, using the term shows the longer the term which loan was collected no matter the amount, the higher the APR gets.
 
+# Udacity_data_visualization_project
